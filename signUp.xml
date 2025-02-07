@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="utilities.Listener" />
+	</listeners>
+	<test name="Test">
+		<classes>
+			<class name="testCases.TC_SU_001" />
+			<class name="testCases.TC_SU_002" />
+			<class name="testCases.TC_SU_003" />
+			<class name="testCases.TC_SU_004" />
+			<class name="testCases.TC_SU_005" />
+			<class name="testCases.TC_SU_006" />
+			<class name="testCases.TC_SU_007" />
+			<class name="testCases.TC_SU_008" />
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

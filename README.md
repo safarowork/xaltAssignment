@@ -11,6 +11,9 @@
  - Screenshot upon test failure using ITestListener interface
  - Base class with Before and After Methods for setUp and tearDown.
  -  Functionalities Automated: Signup, Signin, Signout
+   
+### Test cases for signin, signout and signup can be refered to in the testcases.xml file
+### TestPlan.pdf has the detailed end to end test plan
 
 ### Test Execution Output for end to end testing of signup, signin and signout
 
